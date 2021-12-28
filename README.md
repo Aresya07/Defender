@@ -1,2 +1,3 @@
 # Defender
- Juego construct 3 - Defender
+ Juego construct 3
+Defender v.0.2
